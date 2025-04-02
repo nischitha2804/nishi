@@ -1,1 +1,2 @@
 # nishi
+def fibo n()
